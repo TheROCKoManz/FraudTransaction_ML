@@ -1,6 +1,6 @@
 # FraudTransaction_ML
 
-This is a Machine Learning Model to identify the Fraudulant Transactions from a Transaction Dataset.
+This is a Machine Learning Model to identify the Fraudulent Transactions from a Transaction Dataset.
 
 Details of the Features is provided below:
 
